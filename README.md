@@ -60,10 +60,10 @@ Top predicted movies for user 1 based on the SVD model, sorted by estimated scor
 
 ## 📁 Folder Structure
 
-.
+```
 movielens/
 ├── ratings.csv
 ├── movies.csv
 ├── recommendation_system.py
 └── README.md
-```[5]
+```
